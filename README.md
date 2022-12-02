@@ -1,5 +1,4 @@
 # Marvel Superhero App
-## Marvel Superhero App
 
 ## Screenshots of running APP
 
